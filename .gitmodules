@@ -1,3 +1,6 @@
 [submodule "pack/python-mode/start/python-mode"]
 	path = pack/python-mode/start/python-mode
 	url = https://github.com/python-mode/python-mode.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe.git
